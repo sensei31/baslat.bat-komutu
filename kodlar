@@ -1,0 +1,6 @@
+@echo off
+color c
+title BOTUNUZUN ADINI YAZINIZ
+:a
+node bot.js
+goto a
