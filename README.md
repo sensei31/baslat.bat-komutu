@@ -1,1 +1,0 @@
-# baslat.bat-komutu
